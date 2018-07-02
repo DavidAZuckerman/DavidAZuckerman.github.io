@@ -1,5 +1,5 @@
 ---
-layout: theme
+layout: default
 title: Elsa
 ---
 ## Welcome to ME

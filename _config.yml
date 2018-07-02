@@ -2,3 +2,4 @@ theme: jekyll-theme-hacker
 name: Elsa Zuckerman, Software Engineer
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+permalink: /about/:title

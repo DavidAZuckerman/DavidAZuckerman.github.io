@@ -3,7 +3,6 @@
 -title: "And so a second week begins"
 -date: 2018-07-09
 ----
-<OBLIGATORY RAMBLE ABOUT HOW I HAVEN'T POSTED IN A WHOLE DANG WEEK>
 It's week two now. I only made it in for two days on week 1. That's okay. I accomplished a lot last week.
 Avni and I have rethought some of the core aspects of spoon game, and are going to give it an exploration/survival aspect, 
 and make it about a group of artists trying to make art together. I'm excited about it. 
